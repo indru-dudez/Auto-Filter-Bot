@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+    <img src="https://sinnerdrive.jack-need-boost.workers.dev/0:/mirr//xcoders%20%282%29.jpg">
 
   </a>
 </p>
